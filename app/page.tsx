@@ -46,14 +46,14 @@ const days: Day[] = [
     { time:'14:00', title:'上三之町老街', detail:'木造町家、味噌店、工藝店與老屋咖啡；可試飲當地酒藏。', duration:'約 2.5 小時', mapUrl:'https://maps.google.com/?q=Sanmachi+Historic+District+Takayama' },
     { time:'18:00', title:'飛驒牛晚餐', detail:'燒肉、朴葉味噌或牛排擇一，熱門店建議事先訂位。', duration:'約 1.5 小時' },
   ]},
-  { id:'day-3', date:'11/01', weekday:'SUN', place:'高山・名古屋', headline:'朝市與祭屋，午後回到名古屋', route:'宮川朝市 → 櫻山八幡宮 → 高山 → 丸之內', stay:'Hotel Keihan Nagoya（丸之內站步行約 4 分）', tone:'MARKET', stops:[
+  { id:'day-3', date:'11/01', weekday:'SUN', place:'高山・名古屋', headline:'朝市與祭屋，午後回到名古屋逛街', route:'宮川朝市 → 櫻山八幡宮 → 高山 → 丸之內 → 榮', stay:'Hotel Keihan Nagoya（丸之內站步行約 4 分）', tone:'MARKET', stops:[
     { time:'08:00', title:'宮川朝市', detail:'沿宮川逛在地蔬果、醃漬物與手作攤位，順便吃早餐。', duration:'約 1 小時', mapUrl:'https://maps.google.com/?q=Miyagawa+Morning+Markets' },
     { time:'09:15', title:'櫻山八幡宮', detail:'穿過安靜街區前往高山北側的古社。', duration:'約 45 分', transport:'朝市步行約 12 分', mapUrl:'https://maps.google.com/?q=Sakurayama+Hachimangu+Shrine' },
     { time:'10:10', title:'高山祭屋台會館', detail:'近距離欣賞高山祭華麗屋台；與八幡宮相鄰。', duration:'約 1 小時', mapUrl:'https://maps.google.com/?q=Takayama+Festival+Floats+Exhibition+Hall' },
     { time:'11:30', title:'備選｜飛驒之里', detail:'想把高山自然景色排滿，可搭巴士前往合掌造民家；若不想趕車，就留在老街吃午餐。', duration:'約 1.5–2 小時', transport:'高山站搭巴士約 10 分', mapUrl:'https://maps.google.com/?q=Hida+Folk+Village' },
     { time:'13:30', title:'老街最後散步與取行李', detail:'不去飛驒之里時，這段可改成老街午餐與伴手禮；之後回 Wat Hotel 取行李，步行約 7 分到車站。', duration:'約 1 小時' },
     { time:'14:46', title:'JR 特急飛驒返回名古屋', detail:'已訂 HIDA 14：14:46 高山站出發、17:05 抵達名古屋站。抵達後搭地鐵櫻通線至丸之內，出站步行約 4 分回 Hotel Keihan。', duration:'2 小時 19 分＋轉乘約 20 分', transport:'JR 特急ひだ HIDA 14｜指定席＋地鐵櫻通線', mapUrl:'https://maps.google.com/?q=Hotel+Keihan+Nagoya' },
-    { time:'18:30', title:'榮與久屋大通', detail:'Oasis 21、MIRAI TOWER 與久屋大通公園夜景，作為旅程收尾。', duration:'約 2 小時', transport:'地鐵東山線約 5 分', mapUrl:'https://maps.google.com/?q=Oasis+21+Nagoya' },
+    { time:'18:30', title:'榮商圈與久屋大通購物', detail:'以逛街為主：LACHIC、名古屋三越、松坂屋、Central Park 地下街與 RAYARD Hisaya-Odori Park。可依體力選百貨、服飾雜貨、伴手禮或餐廳，不安排 Oasis 21 屋頂與夜景行程。', duration:'約 2.5 小時', transport:'丸之內→榮｜地鐵櫻通線轉東山線約 10 分', mapUrl:'https://www.google.com/maps/search/?api=1&query=Hisaya+Odori+Park+Nagoya' },
   ]},
   { id:'day-4', date:'11/02', weekday:'MON', place:'犬山', headline:'從城下町一路走到木曾川', route:'丸之內 → 名鐵名古屋 → 犬山 → 犬山遊園 → 名古屋', stay:'Hotel Keihan Nagoya（丸之內站步行約 4 分）', tone:'CASTLE', stops:[
     { time:'08:10', title:'飯店出發・名鐵前往犬山', detail:'從丸之內搭地鐵櫻通線至名古屋，再步行轉名鐵；建議抓 20–25 分鐘轉乘，搭犬山線快速特急或特急。', duration:'約 50–60 分', transport:'地鐵櫻通線＋名鐵犬山線', mapUrl:'https://maps.google.com/?q=Inuyama+Station' },
